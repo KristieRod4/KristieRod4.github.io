@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <link rel="stylesheet" href="/css/personal-site.css">
+  <link rel="stylesheet" href="css/welcome_web.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
@@ -35,25 +35,22 @@
       </div>
     </nav>
   
-<div class="jumbotron text-center" id="jumbotron1">
+<div class="jumbotron text-center">
   <h1>About Kristie!</h1>
   <img src="img/Disney_me.jpg" class="img-responsive" alt="Responsive image" style="width: 18%; height: 18%; padding: 1%">
-  <p id="favQuote"><strong>"What lies behind us and what lies ahead of us are tiny matters compared to what lives within us."  -Henry David Thoreau<strong></p> 
+  <p>"What lies behind us and what lies ahead of us are tiny matters compared to what lives within us.- Henry David Thoreau</p> 
 </div>
-<br>
-<br>
-<br>
 </div>
 
 <div class="container text-center">
    <div class="row">
-    <div class="col-md-4" style=" padding-top: 1%">
+    <div class="col-md-4">
       <div class="thumbnail">
         <center><h3>Leadership</h3></center>
         <!-- <a href="/img/leader_icon.jpg" target="_blank"> -->
           <img src="/img/leader_icon.jpg" alt="Lights" style="width:25%">
           <div class="caption">
-            <p>Proven success as a leader in both small and large organizations.</p>
+            <p>Lorem ipsum donec id elit non mi porta gravida at eget metus.</p>
           </div>
         </a>
       </div>
@@ -65,25 +62,22 @@
       <p>Lorem ipsum dolor..</p>
       <p>Ut enim ad..</p>
     </div> -->
-    <div class="col-sm-4" style=" padding-top: 1%">
-      <div class="thumbnail">
-      <h3>Adaptability</h3>
-      <p>Expert in navigating high stakes, fast-paced, ever evolving environments!</p>
-      <p></p>
+    <div class="col-sm-4" style=" padding: 1%">
+      <h3>Creativity</h3>
+      <p>Lorem ipsum dolor..</p>
+      <p>Ut enim ad..</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Exploration</h3> 
+      <p>Lorem ipsum dolor..</p>
+      <p>Ut enim ad..</p>
     </div>
   </div>
-    <div class="col-sm-4" style=" padding-top: 1%">
-      <div class="thumbnail">
-      <h3>Visionary</h3> 
-      <p>Innovative and eager to learn, trail blazing is second nature.</p>
-      <p></p>
-    </div>
-  </div>
-  </div>
+  
 </div>
- <div class="jumbotron text-center" id="jumbotron2">
+ <div class="jumbotron text-center" >
   <h1></h1>
-  <p><strong>"Make it PINK!" -Flora (pink fairy in Sleeping Beauty)<strong></p> 
+  <p>Resize this responsive page to see the effect!</p> 
 </div>
 </div>
 
