@@ -35,7 +35,7 @@
       </div>
     </nav>
   
-<div class="jumbotron text-center" id="jumbotron1">
+<div class="jumbotron text-center gradient" id="jumbotron1">
   <h1>About Kristie!</h1>
   <img src="img/Disney_me.jpg" class="img-responsive" alt="Responsive image" style="width: 18%; height: 18%; padding: 1%">
   <p id="favQuote"><strong>"What lies behind us and what lies ahead of us are tiny matters compared to what lives within us."  -Henry David Thoreau<strong></p> 
